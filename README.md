@@ -3,7 +3,7 @@
  This repo contains designs which i made for plasticlessplanet project during a Hackathon. Aimed at promoting environmental sustainability through innovative plastic detection technology.
 
 This app used a object detection yolov8 model which i worked on. can be found in :
-   this is yolov8 model for plastic detection [Example-Repo](https://github.com/salehghulamqasim/Yolov8-Plastic-detection.git)
+  [Here](https://github.com/salehghulamqasim/Yolov8-Plastic-detection.git)
 
 
 
